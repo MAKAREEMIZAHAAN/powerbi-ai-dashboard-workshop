@@ -1,8 +1,7 @@
-# Power BI AI Dashboard Workshop 🚀
+# Power BI AI Dashboard 🚀
 
-This repository contains key learnings, tools, and a sample Power BI dashboard project developed as part of the **Power BI Domination Workshop** hosted by [OfficeMaster] and led by **IIT alumni Aditya Goenka** and **Aditya Kachave**.
 
----
+
 
 ## 📄 Certificate & Credentials
 
